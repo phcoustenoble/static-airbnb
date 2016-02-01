@@ -15,17 +15,11 @@
             <h1><%= flat.summary %></h1>
             <p><%= flat.city %></p>
 
-
-            <!-- <i class="fa fa-star" style="color: #ffb400"></i>
-            <i class="fa fa-star" style="color: #ffb400"></i>
-            <i class="fa fa-star" style="color: #ffb400"></i>
-            <i class="fa fa-star" style="color: #ffb400"></i>
-            <i class="fa fa-star" style="color: #cacccd"></i> -->
             <% flat.rating.times do%>
             <i class="fa fa-star" style="color: #ffb400"></i>
             <% end %>
             <% (5 -flat.rating).times do%>
-            <i class="fa fa-star" style="color: #cacccd""></i>
+            <i class="fa fa-star" style="color: #cacccd"></i>
             <% end %>
 
 

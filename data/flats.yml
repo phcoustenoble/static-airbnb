@@ -11,7 +11,7 @@ seb:
   bathrooms:  2
   bedtype: King Size
   bedrooms: 3
-  rating: 2
+  rating: 3
 romain:
   owner_name: Romain
   picture: card-london.jpeg
@@ -21,6 +21,11 @@ romain:
   city: London, UK
   wifi: false
   description: L'appart de Romain est génial !
+  accommodates: 1
+  bathrooms:  2
+  bedtype: King Size
+  bedrooms: 3
+  rating: 4
 anne:
   owner_name: Anne
   picture: card-brussels.jpeg
@@ -29,4 +34,23 @@ anne:
   summary: Charming room in Moolenbeck
   city: Brussels, Belgium
   wifi: true
-  description: L'appart d'Anne est génial !
+  description: L'appart d'Anne est le meilleur !
+  accommodates: 1
+  bathrooms:  2
+  bedtype: Queen Size
+  bedrooms: 3
+  rating: 5
+nico:
+  owner_name: Anne
+  picture: card-paris.jpg
+  owner_picture: anne.jpg
+  name: Nico's home
+  summary: Charming room in Canal Saint-Martin
+  city: Paris, France
+  wifi: true
+  description: L'appart de Nico est top !
+  accommodates: 1
+  bathrooms:  2
+  bedtype: Queen Size
+  bedrooms: 3
+  rating: 5
