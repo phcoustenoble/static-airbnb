@@ -1,0 +1,32 @@
+seb:
+  owner_name: Seb
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  description: Appart trop cool !
+  accommodates: 1
+  bathrooms:  2
+  bedtype: King Size
+  bedrooms: 3
+  rating: 2
+romain:
+  owner_name: Romain
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  description: L'appart de Romain est génial !
+anne:
+  owner_name: Anne
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Charming room in Moolenbeck
+  city: Brussels, Belgium
+  wifi: true
+  description: L'appart d'Anne est génial !
